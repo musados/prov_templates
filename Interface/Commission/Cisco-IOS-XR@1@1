@@ -1,7 +1,3 @@
-{
-    "text":"dadfsd",
-    "icon":"",
-    "save_required": 1,
-    "cond": [[]],
-    "active": 1
-}
+interfce {{ Interface_Name }}
+    description {{description }}
+    ipv4 address {{ ip }} {{ Subnet_Mask }}

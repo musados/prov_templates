@@ -1,9 +1,4 @@
-{
-    "text":"sfdsdfs
-    "sdfsfsdf
-    sdfsffs",
-    "icon":"",
-    "save_required": 1,
-    "cond": [[]],
-    "active": 1
-}
+interface {{ Interface_Name }}
+    description {{ description }}
+    mtu {{ Sub_MTU }}
+    negotiation auto
